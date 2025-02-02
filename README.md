@@ -12,13 +12,6 @@ This project not only highlights predictive modeling but also showcases skills i
 - Employing advanced evaluation techniques.
 - Building ensemble models for enhanced predictive performance.
 
----
-
-#### **Dataset**
-(*To be expanded with links and descriptions.*)
-
----
-
 #### **Methods Used**
 1. **Data Preprocessing and Feature Engineering**:
    - **SQL Integration**: Extracted relevant features and records from a relational database using complex SQL queries.
@@ -51,13 +44,6 @@ This project not only highlights predictive modeling but also showcases skills i
    - **Confusion Matrix**: Detailed analysis of true positives, false positives, true negatives, and false negatives.
    - **Classification Report**: Summary of precision, recall, and F1 scores for each class.
 
----
-
-#### **Results**
-The project employed the above evaluation metrics to assess the performance of individual models and ensemble predictions. Metrics like F1 score and ROC AUC indicated how well models balanced precision and recall, while confusion matrices provided insight into specific classification challenges. Ensemble methods demonstrated superior performance by leveraging the strengths of multiple models.
-
----
-
 #### **Technology and Libraries**
 - **Programming Languages**: Python, SQL
 - **Database**: SQLite
@@ -67,12 +53,4 @@ The project employed the above evaluation metrics to assess the performance of i
   - **Deep Learning**: `torch` (for MLP model)
   - **Database Operations**: `sqlite3`
   - **Utility**: `tqdm`, `random`, `scipy`
-
----
-
-Feel free to explore the repository for:
-- Jupyter Notebook files detailing the entire workflow.
-- SQL scripts used for data extraction.
-- Results and visualizations showcasing model performance.
-
 Contributions and suggestions are welcome! 😊
