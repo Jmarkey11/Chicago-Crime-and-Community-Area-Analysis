@@ -2,7 +2,7 @@
 
 ### Chicago Crime Arrest Prediction Project
 
-#### **Summary**
+### **Summary**
 This project analyzes Chicago's 2012 crime data to predict whether a crime resulted in an arrest. The goal is to explore crime patterns and demonstrate the use of data science techniques, including database integration, data analysis, and machine learning, in a real-world context.
 
 The workflow begins with SQL-based extraction of data from a relational database containing crime, census, GIS, health, and school datasets. Comprehensive preprocessing and feature engineering transform the raw data into a machine learning-ready format. Multiple machine learning models are implemented, and their predictions are aggregated through ensemble techniques to maximize accuracy and robustness.
@@ -12,7 +12,7 @@ This project not only highlights predictive modeling but also showcases skills i
 - Employing advanced evaluation techniques.
 - Building ensemble models for enhanced predictive performance.
 
-#### **Methods Used**
+### **Methods Used**
 1. **Data Preprocessing and Feature Engineering**:
    - **SQL Integration**: Extracted relevant features and records from a relational database using complex SQL queries.
    - **Data Cleaning**:
@@ -44,7 +44,7 @@ This project not only highlights predictive modeling but also showcases skills i
    - **Confusion Matrix**: Detailed analysis of true positives, false positives, true negatives, and false negatives.
    - **Classification Report**: Summary of precision, recall, and F1 scores for each class.
 
-#### **Technology and Libraries**
+### **Technology and Libraries**
 - **Programming Languages**: Python, SQL
 - **Database**: SQLite
 - **Libraries**:
